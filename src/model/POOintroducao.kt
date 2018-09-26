@@ -1,4 +1,6 @@
-/*parte de orientação a objetos de kotlin*/
+/*parte de orientação a objetos de kotlin
+* aprendo criar objetos usar construtores e o init
+* */
 
 //exemplo classe kotlin
 class Carro{
