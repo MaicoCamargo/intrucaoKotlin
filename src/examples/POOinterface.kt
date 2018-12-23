@@ -1,4 +1,4 @@
-package model
+package examples
 
 /*no kotlin os metodos podem ter corpo ou não - podemos usar varias interfaces em apenas uma classe*/
 interface Dirigivel{

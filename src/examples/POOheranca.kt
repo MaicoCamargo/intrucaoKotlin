@@ -1,4 +1,4 @@
-package model
+package examples
 
 /*open é usado por que por padrão as classe(e atributos) no kotin n podem ser estendidas, para poder ser extendida e ser
 usada como pai de outra sub classe*/
